@@ -4,5 +4,5 @@ module.exports= mysql.createConnection({
     host:'localhost',
     user:'root',
     password:'@060612Fm',
-    database:'ujian-backend'
+    database:'movieindoxxi'
 })
